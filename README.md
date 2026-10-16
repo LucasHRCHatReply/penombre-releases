@@ -4,6 +4,13 @@ Penombre met en valeur la fenêtre sur laquelle vous travaillez : elle pose un v
 tout le reste, sur chaque écran. L'app vit dans la barre des menus (petite lune) ; ⌃⌥D active ou coupe le voile.
 Le voile ne reçoit aucun clic. Aucun compte, aucune licence, aucune télémétrie.
 
+- **Minuteur** : pause de 15 minutes, 1 heure ou jusqu'à demain 6 h (le voile revient seul) ; séance de concentration de
+  25 minutes avec compte à rebours dans la barre des menus.
+- **Réglage par app** : plus léger, plus sombre ou pas de voile, pour l'app au premier plan seulement.
+- **Plusieurs écrans** : le voile se coupe écran par écran.
+- **Raccourcis** : ⌃⌥D active ou coupe · ⌃⌥↑ et ⌃⌥↓ intensité · ⌃⌥P pause d'1 heure · ⌃⌥I ignorer l'app.
+- **Apparence** : fondu vif, doux ou lent ; pourcentage à côté de la lune ; voile demandé hors partage d'écran.
+
 Ce dépôt ne contient que les versions à installer. Le code source n'est pas public.
 
 ## Ce qu'il faut
