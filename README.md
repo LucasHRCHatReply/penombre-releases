@@ -35,6 +35,11 @@ l'app. Il garde les réglages.
 Une autorisation facultative : pour que le voile suive chaque changement de fenêtre dans une même app, Réglages Système ›
 Confidentialité et sécurité › Accessibilité › Penombre. Sans elle, le voile suit seulement les changements d'app.
 
+Autre voie : télécharger `Penombre.dmg` dans les [Releases](../../releases/latest), l'ouvrir, glisser Penombre sur
+Applications. Le disque est signé, non notarisé : au premier lancement, clic droit sur l'app › Ouvrir.
+
+Au premier lancement, un didacticiel de quatre essais s'ouvre ; il se rouvre depuis le menu de la lune.
+
 ## Avertissement : app non validée par Apple
 
 Penombre est signée mais pas « notarisée » : cela demande un compte développeur payant. macOS la juge donc non vérifiée
